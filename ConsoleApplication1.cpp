@@ -18,6 +18,7 @@ int main()
 
     std::cout << "プルしてください\n";
 
+    std::cout << "プルせずに作業\n";
 
 }
 
